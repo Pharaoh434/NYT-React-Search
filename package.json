@@ -24,6 +24,7 @@
         "body-parser": "^1.17.2",
         "express": "^4.15.4",
         "mongoose": "^5.0.11",
+        "react": "^16.6.3",
         "yarn": "^1.12.3"
     },
     "engines": {
